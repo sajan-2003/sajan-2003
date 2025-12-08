@@ -10,10 +10,7 @@
 ## 🧑‍💻 About Me
 - 🌱 Currently learning **C, JavaScript, and modern web frameworks**  
 - 🔭 Projects I’m working on:
-  - **Point-Of-Sale System** 🛒 – Simple & efficient sales management system  
-  - **ASPACS** ☀️🤖 – Automated Solar Panel Cleaning Robot  
-  - **MopMate** 🧹 – Wet Floor Drying System  
-  - **BoltIQ** 🔩 – Bolt/Nut Dispensing Robot  
+  - **Point-Of-Sale System** 🛒 – Simple & efficient sales management system    
   - **SafeCamp** ⛺ – LoRa-based Smart Camping Belt  
 - 📍 Based in **Sri Lanka**  
 
