@@ -37,9 +37,9 @@ I am passionate about designing **intuitive user experiences** and building **sm
 
 ## 📊 GitHub Stats
 
-![Sajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajan-chamika&show_icons=true&theme=radical)  
+![Sajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajan-2003&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajan-chamika&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajan-2003&layout=compact&theme=radical)  
 
 ---
 
