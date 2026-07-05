@@ -182,10 +182,9 @@ Languages and tools I've worked with and am comfortable using:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sajan-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sajan-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sajan-2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajan-2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajan-2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
