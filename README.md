@@ -249,11 +249,9 @@ Languages and tools I've worked with and am comfortable using:
 ## 📫 Connect With Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajan-2003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sajan-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=sajan-2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajan-2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 > 🔗 Update the LinkedIn and Email links above with your actual profile/contact details before publishing.
