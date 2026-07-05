@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Sajan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/sajan-2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%40+University+of+Moratuwa;Aspiring+DevOps+Engineer;Full-Stack+%2B+IoT+%2B+Cloud+Enthusiast;Building+ElderCare-Invest+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" <br>/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%40+University+of+Moratuwa;Aspiring+DevOps+Engineer;Full-Stack+%2B+IoT+%2B+Cloud+Enthusiast;Building+ElderCare-Invest+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" <br/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sajan-2003&label=Profile%20Views&color=2c5364&style=flat" alt="Profile Views"/>
