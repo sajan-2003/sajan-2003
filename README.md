@@ -101,7 +101,7 @@ CI/CD            ▓▓░░░░░░░░  Learning
 
 ## 🧰 Tech Stack
 
-### ✅ Technologies I Know
+###  Technologies I Know
 Languages and tools I've worked with and am comfortable using:
 
 <div align="left">
@@ -126,7 +126,7 @@ Languages and tools I've worked with and am comfortable using:
 
 </div>
 
-### 🌱 Technologies I'm Currently Learning
+###  Technologies I'm Currently Learning
 
 <div align="left">
 
@@ -167,7 +167,7 @@ Languages and tools I've worked with and am comfortable using:
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
@@ -207,7 +207,7 @@ Languages and tools I've worked with and am comfortable using:
 
 ---
 
-## 🧭 Contribution Philosophy
+##  Contribution Philosophy
 
 -  **Document before I build** — every serious project starts with a problem statement, requirements, and architecture doc.
 -  **Small, honest commits** — I prefer clear, incremental progress over large, unreviewable changes.
@@ -229,7 +229,7 @@ Languages and tools I've worked with and am comfortable using:
 
 ---
 
-## 🎲 Fun Facts
+##  Fun Facts
 
 -  One of my projects literally detects elephants using AI and sensors
 -  Another one is designed to help people financially plan for their 80s — while I'm still in my 20s
@@ -239,7 +239,7 @@ Languages and tools I've worked with and am comfortable using:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
