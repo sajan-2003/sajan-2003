@@ -171,10 +171,10 @@ Languages and tools I've worked with and am comfortable using:
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| 🏦 **[ElderCare-Invest](https://github.com/sajan-2003/ElderCare-Invest)** | Fintech + healthtech platform for early elder-care investment planning | React, TypeScript, Node.js, PostgreSQL, Docker, AWS | 🟡 Planning Phase |
-| 🕰️ **Legacy Capsule** | Secure digital memory & time-locked message platform | TBD | 🟡 Early Development |
-| 🐘 **Elephant Detection System** | IoT wildlife monitoring using ESP32, Raspberry Pi & LoRa | ESP32, Raspberry Pi, LoRa, AI-assisted detection | 🟢 Active |
-| 🧾 **POS System** | Desktop sales & inventory management application | Java / C# | 🟢 Built |
+|  **[ElderCare-Invest](https://github.com/sajan-2003/ElderCare-Invest)** | Fintech + healthtech platform for early elder-care investment planning | React, TypeScript, Node.js, PostgreSQL, Docker, AWS | 🟡 Planning Phase |
+|  **Legacy Capsule** | Secure digital memory & time-locked message platform | TBD | 🟡 Early Development |
+|  **Elephant Detection System** | IoT wildlife monitoring using ESP32, Raspberry Pi & LoRa | ESP32, Raspberry Pi, LoRa, AI-assisted detection | 🟢 Active |
+|  **POS System** | Desktop sales & inventory management application | Java / C# | 🟢 Built |
 
 ---
 
