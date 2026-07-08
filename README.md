@@ -201,15 +201,7 @@ Languages and tools I've worked with and am comfortable using:
 </details>
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sajan-2003&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-</details>
 
 > 📌 Widgets above are powered by third-party GitHub stats services and reflect live public activity — not a self-reported claim.
 
