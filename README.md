@@ -23,12 +23,12 @@ Hi, I'm **Sajan Chamika** — an IT undergraduate at the **University of Moratuw
 
 ## 🧑‍💻 About Me
 
-- 🔭 I enjoy working across **full-stack development, UI/UX design, cloud technologies, DevOps, embedded systems, and IoT**
-- 🌱 I continuously learn new technologies and enjoy turning ideas into **practical, scalable applications**
-- 🏗️ I'm currently building **ElderCare-Invest**, a startup-style fintech + healthtech platform, as my main portfolio project
-- 🎓 IT Undergraduate at the **University of Moratuwa**
-- 💬 Ask me about full-stack development, IoT/embedded systems, or early-stage software architecture
-- ⚡ Fun fact: my projects range from **financial platforms** to **elephant-detecting IoT sensors** — I like variety
+-  I enjoy working across **full-stack development, UI/UX design, cloud technologies, DevOps, embedded systems, and IoT**
+   I continuously learn new technologies and enjoy turning ideas into **practical, scalable applications**
+-  I'm currently building **ElderCare-Invest**, a startup-style fintech + healthtech platform, as my main portfolio project
+-  IT Undergraduate at the **University of Moratuwa**
+-  Ask me about full-stack development, IoT/embedded systems, or early-stage software architecture
+-  Fun fact: my projects range from **financial platforms** to **elephant-detecting IoT sensors** — I like variety
 
 ---
 
@@ -47,7 +47,7 @@ A startup-style platform enabling people to invest early in life for future elde
 </td>
 <td width="50%" valign="top">
 
-### 🕰️ Legacy Capsule
+### 🕰️ [Legacy Capsule](https://github.com/sajan-2003/Legacy-Capsule)
 A secure digital memory platform for privately preserving memories, journals, photos, and videos using time-locked, future-delivery "capsules."
 
 `Concept / Early Development`
@@ -159,9 +159,9 @@ Languages and tools I've worked with and am comfortable using:
 
 | Category | Technologies |
 |---|---|
-| ✅ **Known** | Python, Java, C, C#, JavaScript, HTML, CSS, SQL, Git, GitHub, VS Code, Flutter, Arduino IDE, ESP32, Raspberry Pi, Figma, Linux |
-| 🌱 **Learning** | React, TypeScript, Node.js, Express.js, PostgreSQL, Docker, GitHub Actions, AWS, CI/CD |
-| 🔭 **Interested In** | DevOps, Cloud Computing, System Architecture, Automation, Advanced IoT |
+|  **Known** | Python, Java, C, C#, JavaScript, HTML, CSS, SQL, Git, GitHub, VS Code, Flutter, Arduino IDE, ESP32, Raspberry Pi, Figma, Linux |
+|  **Learning** | React, TypeScript, Node.js, Express.js, PostgreSQL, Docker, GitHub Actions, AWS, CI/CD |
+|  **Interested In** | DevOps, Cloud Computing, System Architecture, Automation, Advanced IoT |
 
 </details>
 
@@ -217,11 +217,11 @@ Languages and tools I've worked with and am comfortable using:
 
 ## 🧭 Contribution Philosophy
 
-- 📝 **Document before I build** — every serious project starts with a problem statement, requirements, and architecture doc.
-- 🧩 **Small, honest commits** — I prefer clear, incremental progress over large, unreviewable changes.
-- 🤝 **Open to collaboration** — I welcome issues, suggestions, and pull requests on my public repositories.
-- 🎯 **Learn in public** — my repos reflect real learning progress, including work still in planning or early stages.
-- 🔍 **Quality over speed** — I'd rather ship something well-architected than rush an MVP with no foundation.
+-  **Document before I build** — every serious project starts with a problem statement, requirements, and architecture doc.
+-  **Small, honest commits** — I prefer clear, incremental progress over large, unreviewable changes.
+-  **Open to collaboration** — I welcome issues, suggestions, and pull requests on my public repositories.
+-  **Learn in public** — my repos reflect real learning progress, including work still in planning or early stages.
+-  **Quality over speed** — I'd rather ship something well-architected than rush an MVP with no foundation.
 
 ---
 
@@ -239,11 +239,11 @@ Languages and tools I've worked with and am comfortable using:
 
 ## 🎲 Fun Facts
 
-- 🐘 One of my projects literally detects elephants using AI and sensors
-- 🏦 Another one is designed to help people financially plan for their 80s — while I'm still in my 20s
-- 🧱 I like starting projects with documentation most people skip
-- 🌍 Based in Sri Lanka, building software with a global mindset
-- ☕ Powered by curiosity and (usually) too much coffee
+-  One of my projects literally detects elephants using AI and sensors
+-  Another one is designed to help people financially plan for their 80s — while I'm still in my 20s
+-  I like starting projects with documentation most people skip
+-  Based in Sri Lanka, building software with a global mindset
+-  Powered by curiosity and (usually) too much coffee
 
 ---
 
