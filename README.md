@@ -249,7 +249,6 @@ Languages and tools I've worked with and am comfortable using:
 
 </div>
 
-> 🔗 Update the LinkedIn and Email links above with your actual profile/contact details before publishing.
 
 ---
 
